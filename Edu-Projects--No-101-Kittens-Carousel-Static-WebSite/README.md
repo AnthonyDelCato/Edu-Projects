@@ -5,7 +5,7 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
 ## Problem Statement
 
-![Project_101](Pro_Project_101.png)
+![Project_101](https://github.com/AnthonyDelCato/Edu-Projects/blob/master/Edu-Projects--No-101-Kittens-Carousel-Static-WebSite/Pro_Project_101.png.html)
 
 - Your company has recently started a web application project that will serve as an attraction point for pet lovers. As a first step of the project, developers in your team have prepared a preliminary design of kittens carousel application and pushed necessary files for the project to the repository on Github. 
 
@@ -47,7 +47,7 @@ Kittens Carousel is a static website application deployed with Apache Web Server
 
 ## Expected Outcome
 
-![Project 101 : Kittens Carousel Application Snapshot](./project-101-snapshot.png)
+![Project 101 : Kittens Carousel Application Snapshot](https://github.com/AnthonyDelCato/Edu-Projects/blob/master/Edu-Projects--No-101-Kittens-Carousel-Static-WebSite/project-101-snapshot.png.html)
 
 ### At the end of the project, following topics are to be covered;
 
